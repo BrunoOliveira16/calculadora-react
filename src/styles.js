@@ -12,14 +12,15 @@ export const Container = styled.div `
 
 export const Content = styled.div `
     width: 19rem;
-    height: 25rem;
+    height: auto;
+    padding: 1rem .5rem;
 
     background-color: #464247;
     border-radius: 1.5rem;
 `
 
 export const ContentButtons = styled.div `
-    padding: 1.2rem; 
+    padding: .5rem 1.2rem 1rem; 
     
     display: grid;
     grid-template-columns: repeat(4, 1fr);
