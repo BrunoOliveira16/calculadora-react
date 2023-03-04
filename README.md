@@ -39,7 +39,7 @@ Aplicar os conhecimentos aprendidos em react, utilizando a criação de componen
 <br>
 
 ## 💻 **Demonstração**
-Você pode acessar ao resultado final do projeto <a href="#">Clicando aqui</a>.
+Você pode acessar ao resultado final do projeto <a href="https://calculadora-projeto-react.netlify.app/" target="_blank">Clicando aqui</a>.
 
 <br>
 
