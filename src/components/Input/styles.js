@@ -17,8 +17,9 @@ export const InputContainer = styled.div `
     input {
         width: 100%;
         height: 3rem;
-        background-color: #abe2e7;
         padding: 1rem;
+
+        background-color: #abe2e7;
         border: 5px solid #70b5bb;
         border-radius: .5rem;
 

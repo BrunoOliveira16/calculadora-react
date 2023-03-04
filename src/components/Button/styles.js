@@ -15,6 +15,10 @@ export const ButtonContainer = styled.button `
     font-family: 'Roboto';
     color: #FFFFFF;
 
+    &:hover {
+        opacity: .6;
+    }
+
     &:nth-child(4) {
         background-color: #f1240a;
     }
